@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+models/
+pc/models/
+.vscode/
+*.log
